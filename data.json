@@ -1,1 +1,12 @@
-
+{
+    "music":[
+        {
+            "name":"Steelheart She gone",
+            "source":"steelheart-shegone.mp3"
+        },
+        {
+            "name":"Queen - Bohemian Rhapsody",
+            "source":"queen-bohemianrhapsody.mp3"
+        },
+    ]
+}

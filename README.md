@@ -13,7 +13,7 @@ template ini digunakan untuk menyimpan music atau audio ekstensi mp3. didalam re
 ## Cara Memasukan ke playlist gitjomb
 
 - ambil url githubpage. contoh: username.github.io/albumskuy
-- silahkan fork repository gitjomb/music 
+- silahkan fork repository https://github.com/gitjomb/music 
 - edit albumbank.js . masukan url githubpage yg sudah dibuat
 - kemudian open pull request
 - selesai
